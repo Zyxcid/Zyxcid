@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/file/d/1Pn84jot_eHYUBr-l9DKb21AEaeReeTjN/view?usp=sharing" alt="banner" style="width:100%">
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20230506112814/C-Programming-Language.png" alt="banner" style="width:100%">
 
 <h1 align="center">Hi 👋, I'm Sha</h1>
 <h3 align="center">An ambitious student from Indonesia</h3>
