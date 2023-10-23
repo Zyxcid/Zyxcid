@@ -5,7 +5,8 @@
 
 - 🌱 I’m currently learning **C language**
 
-- 📫 How to reach me **syahidnursanjaya2005@gmail.com**
+- 📫 Reach me here: **syahidnursanjaya2005@gmail.com**
+- Or you could also dm me on discord **zyxcid**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
