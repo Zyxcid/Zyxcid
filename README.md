@@ -1,3 +1,5 @@
+<img src="https://drive.google.com/file/d/1Pn84jot_eHYUBr-l9DKb21AEaeReeTjN/view?usp=drive_link" alt="banner">
+
 <h1 align="center">Hi 👋, I'm Sha</h1>
 <h3 align="center">An ambitious student from Indonesia</h3>
 
