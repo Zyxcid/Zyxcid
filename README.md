@@ -1,6 +1,6 @@
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/20230506112814/C-Programming-Language.png" alt="banner" style="width:100%">
 
-<h1 align="center">Hi 👋, I'm Sha</h1>
+<h1 align="center">Hi, I'm Sha. シャと申します。</h1>
 <h3 align="center">An ambitious student from Indonesia</h3>
 
 - 🌱 I’m currently learning **C language**
