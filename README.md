@@ -3,11 +3,6 @@
 <h1 align="left">Introduction</h1>
 I'm Sha, シャと申します, I've studied a little Japanese until I got into university, and now I'm studying C language:sunglasses:
 
-- 🌱 I’m currently learning **C language**
-
-- 📫 Reach me **syahidnursanjaya2005@gmail.com**
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/syahidnrhdyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syahidnrhdyt" height="30" width="40" /></a>
