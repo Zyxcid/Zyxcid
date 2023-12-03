@@ -1,7 +1,7 @@
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/20230506112814/C-Programming-Language.png" alt="banner" style="width:100%">
 
 <h1 align="left">Introduction</h1>
-I'm Sha, シャと申します, I've studied a little Japanese until I got into university, and now I'm studying C language:sunglasses:
+I'm Sha, シャと申します, I've studied a little Japanese until I got into university, and now I'm studying C language :sunglasses:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
