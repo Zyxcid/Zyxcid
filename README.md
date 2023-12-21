@@ -20,3 +20,6 @@ I'm Sha, シャと申します, I've studied a little Japanese until I got into 
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zyxcid&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 </a>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
