@@ -21,5 +21,4 @@ I'm Sha, シャと申します, I've studied a little Japanese until I got into 
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zyxcid&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 </a>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<img height=500 src="https://wakatime.com/share/@018c1a71-0803-4825-8cbb-89a7ff0e15f0/b6ad517a-94f6-464b-9be1-47ce9b09cfca.svg"/>
